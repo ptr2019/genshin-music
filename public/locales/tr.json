@@ -297,7 +297,8 @@
             "player_settings": "Oynatıcı ayarları",
             "song_settings": "Müzik ayarları",
             "composer_settings": "Besteleyici ayarları",
-            "editor_settings": "Düzenleyici ayarları"
+            "editor_settings": "Düzenleyici ayarları",
+            "player_practice_settings": "Alıştırma ayarları"
         },
         "select_language": "Dil seç"
     },
