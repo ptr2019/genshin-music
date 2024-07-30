@@ -297,7 +297,8 @@
             "player_settings": "Player settings",
             "song_settings": "Song settings",
             "composer_settings": "Composer settings",
-            "editor_settings": "Editor settings"
+            "editor_settings": "Editor settings",
+            "player_practice_settings": "Practice settings"
         },
         "select_language": "Select language"
     },
